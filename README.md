@@ -1,6 +1,6 @@
 # NeoPro-CalculaterApp
 A fully responsive and interactive calculator web application built using HTML, CSS, and JavaScript. It features a modern glassmorphism UI, dark/light mode toggle, keyboard support, animations, and improved UX for real-world frontend development practice.
-**********************************************************************************************************************************************************************
+**************************************************************************
 
 🧠 Features
 🎨 Modern Glassmorphism UI
@@ -12,19 +12,18 @@ A fully responsive and interactive calculator web application built using HTML, 
 📱 Fully Responsive Design
 🧮 Basic Arithmetic Operations
 ⚡ Fast & Lightweight (No frameworks)
-*********************************************************************************************************************************************************************
-
+*************************************************************************
 🛠️ Tech Stack
 HTML5
 CSS3 (Flexbox, Grid, Animations)
 JavaScript (Vanilla JS)
-*********************************************************************************************************************************************************************
+*************************************************************************
 📂 Project Structure
 calculator-app/
 │── index.html
 │── style.css (if separated)
 │── script.js (if separated)
-*********************************************************************************************************************************************************************
+*************************************************************************
 🚀 How to Run Locally
 # Clone this repository
 git clone https://github.com/mdadil01999)/NeoP-Calculator.git
