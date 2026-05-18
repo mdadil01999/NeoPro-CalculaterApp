@@ -27,7 +27,7 @@ calculator-app/
 *********************************************************************************************************************************************************************
 🚀 How to Run Locally
 # Clone this repository
-git clone https://github.com/your-username/neo-calculator.git
+git clone https://github.com/mdadil01999)/NeoP-Calculator.git
 
 # Open project folder
 cd neo-calculator
